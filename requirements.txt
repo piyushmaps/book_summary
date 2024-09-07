@@ -1,0 +1,8 @@
+pandas
+numpy
+langchain
+huggingface
+langchain-community
+pinecone-client
+pypdf
+python-dotenv
